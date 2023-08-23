@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.a083ac1e.css",
-    "main.js": "/Portfolio/static/js/main.bba42c85.js",
+    "main.js": "/Portfolio/static/js/main.857d7536.js",
     "static/media/Krishna_Patel_CV.pdf": "/Portfolio/static/media/Krishna_Patel_CV.b19861219912bf1fd3c9.pdf",
     "static/media/logo13.png": "/Portfolio/static/media/logo13.ca9dbe742e43b18c0ca7.png",
     "index.html": "/Portfolio/index.html",
     "main.a083ac1e.css.map": "/Portfolio/static/css/main.a083ac1e.css.map",
-    "main.bba42c85.js.map": "/Portfolio/static/js/main.bba42c85.js.map"
+    "main.857d7536.js.map": "/Portfolio/static/js/main.857d7536.js.map"
   },
   "entrypoints": [
     "static/css/main.a083ac1e.css",
-    "static/js/main.bba42c85.js"
+    "static/js/main.857d7536.js"
   ]
 }
